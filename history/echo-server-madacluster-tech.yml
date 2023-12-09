@@ -1,7 +1,7 @@
 url: https://echo-server.madacluster.tech
-status: down
-code: 502
-responseTime: 371
-lastUpdated: 2023-12-09T21:31:41.226Z
+status: up
+code: 200
+responseTime: 521
+lastUpdated: 2023-12-09T21:37:10.618Z
 startTime: 2023-11-20T20:55:59.923Z
 generator: Upptime <https://github.com/upptime/upptime>
