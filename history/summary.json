@@ -64,7 +64,7 @@
     "slug": "echo-server-madacluster-tech",
     "status": "down",
     "uptime": "67.77%",
-    "uptimeDay": "98.21%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "26.05%",
     "uptimeMonth": "40.00%",
     "uptimeYear": "67.77%",
@@ -74,7 +74,7 @@
     "timeMonth": 692,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-02-05": 26,
+      "2024-02-05": 35,
       "2024-02-03": 1372,
       "2024-02-02": 1440,
       "2024-02-01": 1387,
