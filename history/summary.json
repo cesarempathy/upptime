@@ -65,12 +65,12 @@
     "url": "https://echo-server.madacluster.tech",
     "icon": "https://icons.duckduckgo.com/ip3/echo-server.madacluster.tech.ico",
     "slug": "echo-server-madacluster-tech",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "75.57%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "76.06%",
     "uptimeWeek": "69.14%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "98.58%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "98.59%",
     "time": 512,
     "timeDay": 434,
     "timeWeek": 475,
@@ -86,7 +86,7 @@
       "2024-05-09": 927,
       "2024-05-08": 652,
       "2024-05-07": 345,
-      "2024-05-06": 104
+      "2024-05-06": 82
     }
   }
 ]
