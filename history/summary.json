@@ -44,9 +44,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 442,
     "timeDay": 297,
@@ -54,7 +54,6 @@
     "timeMonth": 288,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2024-06-25": 9,
       "2024-04-26": 20,
       "2024-01-10": 147,
       "2023-12-15": 27,
@@ -66,18 +65,19 @@
     "url": "https://echo-server.madacluster.tech",
     "icon": "https://icons.duckduckgo.com/ip3/echo-server.madacluster.tech.ico",
     "slug": "echo-server-madacluster-tech",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "98.74%",
+    "status": "down",
+    "uptime": "99.07%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "98.65%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 507,
-    "timeDay": 523,
-    "timeWeek": 471,
-    "timeMonth": 481,
+    "timeDay": 316,
+    "timeWeek": 430,
+    "timeMonth": 470,
     "timeYear": 507,
     "dailyMinutesDown": {
+      "2024-06-25": 0,
       "2024-06-24": 56,
       "2024-06-18": 537,
       "2024-05-16": 400,
@@ -87,7 +87,7 @@
       "2024-05-12": 401,
       "2024-05-11": 208,
       "2024-05-10": 283,
-      "2024-05-09": 91
+      "2024-05-09": 74
     }
   }
 ]
