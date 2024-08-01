@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 199,
-    "timeWeek": 126,
+    "timeDay": 88,
+    "timeWeek": 106,
     "timeMonth": 108,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 196,
-    "timeWeek": 344,
-    "timeMonth": 290,
+    "timeWeek": 319,
+    "timeMonth": 289,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 424,
-    "timeDay": 380,
-    "timeWeek": 289,
-    "timeMonth": 283,
+    "timeDay": 373,
+    "timeWeek": 299,
+    "timeMonth": 286,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2024-04-26": 20,
@@ -67,17 +67,16 @@
     "slug": "echo-server-madacluster-tech",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.14%",
-    "time": 506,
-    "timeDay": 490,
-    "timeWeek": 555,
-    "timeMonth": 484,
-    "timeYear": 506,
+    "time": 505,
+    "timeDay": 445,
+    "timeWeek": 546,
+    "timeMonth": 482,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2024-07-31": 4,
       "2024-07-14": 33,
       "2024-07-13": 291,
       "2024-07-06": 36,
@@ -90,7 +89,7 @@
       "2024-05-13": 285,
       "2024-05-12": 401,
       "2024-05-11": 208,
-      "2024-05-10": 199
+      "2024-05-10": 214
     }
   }
 ]
