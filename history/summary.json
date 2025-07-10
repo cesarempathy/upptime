@@ -42,19 +42,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 296,
-    "timeWeek": 273,
-    "timeMonth": 316,
-    "timeYear": 304,
+    "timeDay": 221,
+    "timeWeek": 257,
+    "timeMonth": 311,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-07-10": 0
+      "2025-07-10": 5
     }
   },
   {
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/echo-server.madacluster.tech.ico",
     "slug": "echo-server-madacluster-tech",
     "status": "down",
-    "uptime": "53.50%",
+    "uptime": "53.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -74,7 +74,7 @@
     "timeMonth": 100,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-07-10": 1180,
+      "2025-07-10": 1185,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
