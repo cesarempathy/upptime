@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 188,
-    "timeWeek": 102,
-    "timeMonth": 121,
+    "timeDay": 105,
+    "timeWeek": 103,
+    "timeMonth": 120,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2025-06-30": 19
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 188,
-    "timeWeek": 286,
-    "timeMonth": 197,
+    "time": 213,
+    "timeDay": 225,
+    "timeWeek": 237,
+    "timeMonth": 193,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 367,
-    "timeWeek": 279,
-    "timeMonth": 299,
-    "timeYear": 305,
+    "timeDay": 355,
+    "timeWeek": 284,
+    "timeMonth": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/echo-server.madacluster.tech.ico",
     "slug": "echo-server-madacluster-tech",
     "status": "down",
-    "uptime": "51.66%",
+    "uptime": "51.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.56%",
+    "uptimeYear": "18.29%",
     "time": 237,
-    "timeDay": 140,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 177,
+    "timeDay": 78,
+    "timeWeek": 120,
+    "timeMonth": 119,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-08-01": 31,
+      "2025-08-02": 26,
+      "2025-08-01": 1440,
       "2025-07-31": 1440,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
@@ -376,8 +377,7 @@
       "2024-08-31": 247,
       "2024-08-25": 131,
       "2024-08-24": 60,
-      "2024-08-15": 211,
-      "2024-08-02": 25
+      "2024-08-15": 211
     }
   }
 ]
